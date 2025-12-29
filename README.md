@@ -1,4 +1,4 @@
-# PrivaSector: A Large-Scale Sectoral Analysis of Privacy Policies from 2022-2025
+# Privacy, More or Less: Large-Scale Sectoral Comparison of Privacy Policies Between Industries
 
 This repository contains the **PrivaSector** dataset, a corpus of 59,590 privacy policies collected between 2022 and 2025 (https://huggingface.co/datasets/Anonymous929292/PrivaSector).
 
